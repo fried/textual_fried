@@ -3,29 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>Underlying Window Color</key>
-	<string>#f5f0e9</string>
+	<string>#000</string>
 	<key>Server List</key>
 	<dict>
 		<key>Text Font Style</key>
-		<string>Lucida Grande</string>
+		<string>Verdana</string>
 		<key>Text Font Size</key>
-		<integer>11</integer>
+		<integer>12</integer>
 		<key>Background Color</key>
-		<string>#1e1e27</string>
+		<string>#000</string>
 		<key>Highlight Color</key>
-		<string>#007f00</string>
+		<string>#ff0000</string>
 		<key>New Private Message Color</key>
-		<string>#699fcf</string>
+		<string>#ff0000</string>
 		<key>Unread Color</key>
-		<string>#699fcf</string>
+		<string>#0000ff</string>
 		<key>Active Color</key>
 		<string>#fff</string>
 		<key>Inactive Color</key>
 		<string>#ccc</string>
 		<key>Active Color (Selected)</key>
-		<string>#cfbc99</string>
+		<string>#ff0</string>
 		<key>Inactive Color (Selected)</key>
-		<string>#eee</string>
+		<string>#ccc</string>
 		<key>Gradient</key>
 		<dict>
 			<key>Top Color</key>
@@ -45,13 +45,13 @@
 		<key>Text Font Size</key>
 		<integer>11</integer>
 		<key>Background Color</key>
-		<string>#1e1e27</string>
+		<string>#000</string>
 		<key>Text Color</key>
 		<string>#ccc</string>
 		<key>Op Text Color</key>
-		<string>#dedede</string>
+		<string>#f00</string>
 		<key>Text Color (Selected)</key>
-		<string>#cfbc99</string>
+		<string>#ff0</string>
 		<key>Gradient</key>
 		<dict>
 			<key>Top Color</key>
