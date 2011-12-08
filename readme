@@ -1,0 +1,3 @@
+This Textual Style is used primarly with an IRSSI Proxy with the proxy_backlog.pl script
+So those lines from the backlog when its replayed are stripped of timestamp and sender, making them appear more natural. 
+

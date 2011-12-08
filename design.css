@@ -15,7 +15,7 @@ body {
 	overflow: hidden;
 	overflow-y: visible;
 	background-color: #000;
-	font-family: "Lucida Grande";
+	font-family: "Monaco";
 }
 
 body div#body_home {
@@ -68,6 +68,7 @@ a:hover {
   right: 0;
   color: #000;
   z-index: 400;
+  font-size: 14px; 
   opacity: 0.95;
   position: fixed;
   background: #CFD4DD;
@@ -128,6 +129,24 @@ body div[type=wallops] {
 body div[type=notice] .sender {
 	color: #f00;
 	font-weight: 700;
+}
+
+/* PROXY BACKLOG REPLAY */
+body div[type=notice][nick=proxy] {
+	background-color: #000;
+        color: #ccc;
+	border-top: 0px;
+        border-bottom: 0px;
+}
+
+/* Hide TimeStamp from Proxy Replay */
+body div[type=notice][nick=proxy] .time {
+        display: none !important;
+}
+
+/* Hide Proxy Name */
+body div[type=notice][nick=proxy] .sender {
+        display: none;
 }
 
 /* PRIVMSG */
