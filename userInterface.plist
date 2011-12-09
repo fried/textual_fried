@@ -71,9 +71,9 @@
 		<key>Text Font Size</key>
 		<integer>0</integer>
 		<key>Background Color</key>
-		<string>#000000</string>
+		<string>#222222</string>
 		<key>Text Color</key>
-		<string>#ccc</string>
+		<string>#eee</string>
 	</dict>
 </dict>
 </plist>
